@@ -1,0 +1,19 @@
+@import "./../../assets/variables";
+@import "./../../assets/font";
+@import "./../../assets/reset";
+@import "./../../assets/base";
+
+
+@import "./../../components/Header/Header";
+@import "./../../components/Footer/Footer";
+
+img {
+	width: 200px;
+	height: 300px;
+
+	object-fit: cover;
+	}
+
+
+
+
